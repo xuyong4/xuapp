@@ -1,0 +1,40 @@
+.home {
+    .header {
+        background-color: #00bc5b;
+        height: 40px;
+        line-height: 40px;
+
+        .am-search-input {
+            border-radius: 50px;
+        }
+
+        .am-search-cancel {
+            color: white;
+        }
+
+        img {
+            margin-left: 10px;
+        }
+    }
+
+    .nav {
+        .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon {
+            width: 60% !important;
+        }
+    }
+    .nav2{
+        background-color: #fff;
+        margin-top: 10px;
+        padding: 10px;
+
+    }
+    .like{
+        margin-top: 10px;
+        background-color: #fff;
+        padding: 10px;
+        h2,p{
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
